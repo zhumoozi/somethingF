@@ -168,6 +168,7 @@
 </footer>
 <div id="test">Hello iMooc!</div>
 <button onclick="sayHello()">点我！</button>
+<button onclick="sayHello()">点我！!</button>
 <script type="text/javascript" src="scripts/scriptjq.js"></script>
 </body>
 </html>
